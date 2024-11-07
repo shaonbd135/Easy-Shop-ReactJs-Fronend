@@ -1,0 +1,19 @@
+
+.text-primary {
+    color: #00416a !important;
+}
+
+.bg-primary {
+    background-color: #00416a !important;
+}
+
+.card-header {
+    background-color: #00416a !important;
+    border-bottom: 1px solid #003357;
+}
+
+
+.table th, .table td {
+    vertical-align: middle;
+    text-align: center;
+}

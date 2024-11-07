@@ -1,0 +1,114 @@
+body{
+  background: #f4f4f4;
+  font-family: 'Lato', sans-serif;
+}
+
+.container{
+  margin-bottom: 20px;
+}
+
+.hero-image {
+  /* background-image: url("https://i.ibb.co/tpB7SRz/pngwing-com-14.png"); */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background: linear-gradient(to right, #00416a, #e4e5e6);
+}
+
+.default-btn {
+  background: linear-gradient(to right, #00416a, #3571ad);
+  width: 120px;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  outline: none;
+}
+
+.default-btn:hover {
+  background: linear-gradient(to right, #3571ad, #00416a);
+
+}
+
+.category-img:hover {
+  transform: scale(1.1);
+  transition: 0.5s;
+}
+
+.product-card {
+  border: none;
+  box-shadow: 5px 5px 10px lightgray;
+  border-radius: 5px;
+  padding: 20px;
+}
+
+.product-card img {
+  height: 220px;
+  width: 270px;
+  border-radius: 10px;
+}
+
+.product-card img:hover {
+  transform: scale(1.1);
+  transition: 0.5s;
+}
+
+@media (max-width: 768px) {
+  .side-cart-icon {
+    display: none;
+  }
+}
+@media (max-width: 768px) {
+  .cart-wishlist{
+    display: none!important;
+  }
+}
+@media (max-width: 768px) {
+  .nav-cart-icons{
+    display: inline-block!important;
+  }
+}
+
+
+
+td {
+  padding: 12px;
+}
+
+.category-btn {
+  background-color: rgb(6, 100, 128)!important;
+  width: 120px;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  outline: none;
+
+}
+
+.nav-links{
+  color: #00416a !important;
+  font-weight: 500 !important;
+  text-decoration: none !important;
+}
+
+
+.nav-links:hover{
+  color: #f9fafa !important;
+  background-color: #3a7397 !important;
+  border-radius: 5px;
+  transition: 0.2s;
+}
+
+
+.services:hover{
+  /* transform: translateY(10px); */
+  scale: 1.05;
+  transition: 0.6s !important;
+  color: #00416a !important;
+  border-radius: 5px;
+  transition: 0.2s;
+}
+
+
+
+
+

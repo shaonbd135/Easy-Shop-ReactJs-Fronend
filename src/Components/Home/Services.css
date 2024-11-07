@@ -1,0 +1,18 @@
+.service-card:hover {
+    transform: translateY(-10px);
+    transition: all 0.3s ease-in-out;
+}
+
+.service-card i {
+    font-size: 50px;
+}
+
+.service-card .card-title {
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.service-card .card-text {
+    font-size: 16px;
+}
+

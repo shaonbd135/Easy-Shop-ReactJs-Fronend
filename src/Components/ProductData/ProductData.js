@@ -1,0 +1,116 @@
+const ProductData = [{
+    "id": 1001,
+    "title": "Super Fast Laptop",
+    "price": "9.08",
+    "category": "Electronics",
+    "tag": "Bestseller",
+    "image": "https://i.ibb.co/m5psym7/laptop.png"
+}, {
+    "id": 1002,
+    "title": "Apple Iphone",
+    "price": "4.58",
+    "category": "Electronics",
+    "tag": "New-Arrivals",
+    "image": "https://i.ibb.co/37WS419/mobile.png"
+},
+{
+    "id": 1003,
+    "title": "Headphone",
+    "price": "0.47",
+    "category": "Electronics",
+    "tag": "Bestseller",
+    "image": "https://i.ibb.co/6H850rt/headphone.png"
+}, {
+    "id": 1004,
+    "title": "Smart Watch",
+    "price": "3.88",
+    "category": "Electronics",
+    "tag": "Bestseller",
+    "image": "https://i.ibb.co/JK643Kx/watch.png"
+}, {
+    "id": 1005,
+    "title": "Sneakers",
+    "price": "1.03",
+    "category": "Fashion",
+    "tag": "Bestseller",
+    "image": "https://i.ibb.co/zVxZ8dK/shoe.png"
+}, {
+    "id": 1006,
+    "title": "T-Shirt",
+    "price": "8.31",
+    "category": "Fashion",
+    "tag": "New-Arrivals",
+    "image": "https://i.ibb.co/JF6YG0k/tshirt.png"
+}, {
+    "id": 1007,
+    "title": "Shirt",
+    "price": "8.68",
+    "category": "Fashion",
+    "tag": "Bestseller",
+    "image": "https://i.ibb.co/MPcPND8/shirt.png"
+}, {
+    "id": 1008,
+    "title": "Pants",
+    "price": "5.21",
+    "category": "Fashion",
+    "tag": "Bestseller",
+    "image": "https://i.ibb.co/JBwxFDg/pant.png"
+}, {
+    "id": 1009,
+    "title": "Tomato",
+    "price": "6.80",
+    "category": "Grocery",
+    "tag": "Bestseller",
+    "image": "https://i.ibb.co/GQ94ySm/tomato.png"
+}, {
+    "id": 1010,
+    "title": "Onion",
+    "price": "2.32",
+    "category": "Grocery",
+    "tag": "Bestseller",
+    "image": "https://i.ibb.co/cCw0bYb/onion.png"
+}, {
+    "id": 1011,
+    "title": "Oil",
+    "price": "6.85",
+    "category": "Grocery",
+    "tag": "New-Arrivals",
+    "image": "https://i.ibb.co/0nBnQFd/oil.png"
+}, {
+    "id": 1012,
+    "title": "Potato",
+    "price": "9.38",
+    "category": "Grocery",
+    "tag": "Bestseller",
+    "image": "https://i.ibb.co/drHvgG5/potato.png"
+}, {
+    "id": 1013,
+    "title": "Coca Cola",
+    "price": "2.63",
+    "category": "Drinks",
+    "tag": "New-Arrivals",
+    "image": "https://i.ibb.co/pxtd9ns/coke.png"
+}, {
+    "id": 1014,
+    "title": "Pepsi",
+    "price": "3.06",
+    "category": "Drinks",
+    "tag": "Bestseller",
+    "image": "https://i.ibb.co/HrH137J/pepsi.png"
+}, {
+    "id": 1015,
+    "title": "Fanta",
+    "price": "8.09",
+    "category": "Drinks",
+    "tag": "Bestseller",
+    "image": "https://i.ibb.co/JzQgFDk/fanta.png"
+}, {
+    "id": 1016,
+    "title": "Sprite",
+    "price": "2.60",
+    "category": "Drrinks",
+    "tag": "Bestseller",
+    "image": "https://i.ibb.co/x60yKFW/sprit.png"
+}]
+
+export default ProductData;
